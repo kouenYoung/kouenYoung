@@ -24,7 +24,7 @@ const kouenYoung = {
 }
 ```
 
-<em><b>I love connecting with different people! Please feel free to reach out for collaboration ʕ•́ᴥ•̀ʔっ♡</b></em>
+<b>I love connecting with different people! Please feel free to reach out for collaboration ʕ•́ᴥ•̀ʔっ♡</b>
 
 ---
 
