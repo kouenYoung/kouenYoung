@@ -3,7 +3,7 @@
 <p><em>Computer Science major at <a href="https://www.wesleyan.edu">Wesleyan University</a></br>
 </em></p>
 
-[![Linkedin: Henry Yang](https://img.shields.io/badge/-hongyuan-yang-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hongyuan-yang/)](https://www.linkedin.com/in/hongyuan-yang)
+[![Linkedin: Henry Yang](https://img.shields.io/badge/LinkedIn-blue/?style=flat&color=ff69b4&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hongyuan-yang)
 [![GitHub kouenYoung](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/kouenYoung)
 
 
