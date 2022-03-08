@@ -1,5 +1,5 @@
 <h2> Hi, I'm kouenYoung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="assets/8_bit_1.JPG" width="230">
+<img align='right' src="assets/8_bit_1-round.png" width="230">
 <p><em>Computer Science major at <a href="https://www.wesleyan.edu">Wesleyan University</a></br>
 </em></p>
 
