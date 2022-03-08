@@ -15,10 +15,9 @@ const kouenYoung = {
   code: [Python, C, Javascript, HTML, CSS],
   tools: [React, Docker, Django],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+  currentResearch: {
+                        leader: "GX",
+                        advisor: "Dr. Victoria Manfredi",
                       },
   collaboration: "I’m looking to collaborate on AMV/GMV projects."
 }
