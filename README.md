@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Henry Yang](https://img.shields.io/badge/LinkedIn-blue/?style=flat&color=ff69b4&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/hongyuan-yang)
-[![GitHub kouenYoung](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/kouenYoung)
+[![GitHub kouenYoung](https://img.shields.io/github/followers/kouenYoung?label=follow&style=social)](https://github.com/kouenYoung)
 
 
 ### A little more about me...  
