@@ -14,12 +14,12 @@ const kouenYoung = {
   pronouns: "he" | "him",
   code: [Python, C, Javascript, HTML, CSS],
   tools: [React, Docker, Django],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  architecture: ["microservices", "complicated systems", "NLP"],
   currentResearch: {
     leader: "Bozhen Jiang",
     advisor: "Dr. Hua Geng"
   },
-  collab: "I’m looking to collaborate on projects related to STLF of power systems and NLP."
+  collab: "I’m looking to collab on works related to STLF of power systems."
 }
 ```
 
