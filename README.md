@@ -17,7 +17,8 @@ const kouenYoung = {
   architecture: ["microservices", "complicated systems", "NLP"],
   currentResearch: {
     leader: "Bozhen Jiang",
-    advisor: "Dr. Hua Geng"
+    advisor: "Dr. Hua Geng",
+    lab: PEACES lab at Tsinghua University, Beijing, CHN
   },
   collab: "I’m looking to collab on works related to STLF of power systems."
 }
