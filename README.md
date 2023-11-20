@@ -16,10 +16,10 @@ const kouenYoung = {
   tools: [React, Docker, Django],
   architecture: ["microservices", "event-driven", "design system pattern"],
   currentResearch: {
-    leader: "GX Xu",
-    advisor: "Dr. Victoria Manfredi"
+    leader: "Bozhen Jiang",
+    advisor: "Dr. Hua Geng"
   },
-  collab: "I’m looking to collaborate on AMV/GMV projects."
+  collab: "I’m looking to collaborate on projects related to STLF of power systems and NLP."
 }
 ```
 
