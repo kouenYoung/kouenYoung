@@ -16,7 +16,7 @@ const kouenYoung = {
   tools: [React, Docker, Django],
   architecture: ["microservices", "complicated systems", "NLP"],
   currentResearch: {
-    collaborators: ["Anuraag Devatares","Sriharika Jajula","Lara Kretschmer"],
+    collaborators: ["A. Devatares","S. Jajula","L. Kretschmer"],
     advisor: "Dr. Tao Hong",
     lab: BigDEAL lab at UNC Charlotte, NC, USA
   },
