@@ -1,4 +1,4 @@
-<h2> Hi, I'm kouenYoung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Henry Yang! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="assets/0_round2.png" width="230">
 <p><em>Computer Science and Theatre major at <a href="https://www.wesleyan.edu">Wesleyan University</a></br>
 </em></p>
@@ -16,11 +16,11 @@ const kouenYoung = {
   tools: [React, Docker, Django],
   architecture: ["microservices", "complicated systems", "NLP"],
   currentResearch: {
-    leader: "Bozhen Jiang",
-    advisor: "Dr. Hua Geng",
-    lab: PEACES lab at Tsinghua University, Beijing, CHN
+    Collaborator: "Anuraag Devatares","Sriharika Jajula","Lara Kretschmer",
+    advisor: "Dr. Tao Hong",
+    lab: BigDEAL lab at UNC Charlotte, NC, USA
   },
-  collab: "I’m looking to collab on works related to STLF of power systems."
+  collab: "I’m looking to collab on works related to load forecasting for power systems."
 }
 ```
 
